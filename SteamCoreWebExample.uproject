@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.25",
 	"Category": "",
-	"Description": ""	
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SteamCoreWeb",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/01ba1b26572b4c67a34af72a3993ecf2"
+		}
+	]
 }
